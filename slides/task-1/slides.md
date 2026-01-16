@@ -1,6 +1,11 @@
 ---
+title: "Домашка #1"
+info: |
+  Модуль: Импорт-экспорт
+author: Артем Кожемякин
 theme: apple-basic
 layout: intro
+routerMode: hash
 ---
 
 # Easy Houdini
