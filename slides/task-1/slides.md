@@ -14,7 +14,7 @@ routerMode: hash
 
 <div class="absolute bottom-10">
   <span class="font-700">
-    Артем Кожемякин - 02/26
+    Артем Кожемякин - 01/26
   </span>
 </div>
 
