@@ -1,0 +1,20 @@
+{
+  "name": "slidev-workspace-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "export-og": "slidev-workspace export-og",
+    "preview": "slidev-workspace preview",
+    "build": "slidev-workspace build"
+  },
+  "dependencies": {
+    "slidev-workspace": "^0.7.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "playwright-chromium": "^1.56.1"
+  }
+}
